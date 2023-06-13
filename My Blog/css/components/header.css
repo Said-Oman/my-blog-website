@@ -1,0 +1,20 @@
+header{
+    grid-area:hd;
+    display: flex;
+    flex-direction: row;
+    margin:20px;
+    row-gap: 20px;
+    place-items:center;
+    place-content: center;
+    border-radius: 4px;
+   }
+header img {
+    width:150px;
+    margin:10px;
+   
+     }
+       
+#blog-title {
+    font-size: 24px;
+    font-weight: bold;
+}
